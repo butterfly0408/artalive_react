@@ -1,0 +1,72 @@
+// Define Custom Colours
+
+// White
+$white: #FFFDFC;
+
+// Bright
+$bright-light-blue: #05DBF5;
+$bright-blue: #0952E4;
+$bright-purple: #8D2FFB;
+$bright-pink: #FA2CBE;
+$bright-red: #FF3640;
+$bright-orange: #F48A02;
+$bright-green: #12D903;
+
+// Muted
+$light-blue: #E3FDFF;
+$blue: #DBE6FD;
+$purple: #EDE1FC;
+$pink: #FFE5F8;
+$red: #FEE3E4;
+$orange: #FCEBD6;
+$green: #DFFFDC;
+
+
+// Custom Font
+
+@font-face {
+    font-family: 'CustomFont';
+    src: url('./assets/fonts/HerticalSansRough.otf') format('opentype');
+}
+
+.font-custom {
+    font-family: 'CustomFont', sans-serif;
+}
+
+
+
+// Import Bootstrap functions first
+@import "../node_modules/bootstrap/scss/functions";
+
+@import "../node_modules/bootstrap/scss/variables";
+
+// Extend the theme colors map
+$theme-colors: map-merge(
+  $theme-colors,
+  (
+    "white": $white,
+    "bright-light-blue": $bright-light-blue,
+    "bright-blue": $bright-blue,
+    "bright-purple": $bright-purple,
+    "bright-pink": $bright-pink,
+    "bright-red": $bright-red,
+    "bright-orange": $bright-orange,
+    "bright-green": $bright-green,
+    "light-blue": $light-blue,
+    "blue": $blue,
+    "purple": $purple,
+    "pink": $pink,
+    "red": $red,
+    "orange": $orange,
+    "green": $green
+  )
+);
+
+// Comment this out to manually use font-custom as a class
+$font-family-sans-serif: 'CustomFont', sans-serif; 
+$font-family-base: $font-family-sans-serif;
+
+// Import the rest of Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
