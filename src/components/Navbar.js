@@ -31,7 +31,7 @@ const Navbar = ({ page_color }) => {
               <li className="me-3 nav-item">
                 <Link className={`nav-link text-bright-${page_color}`} to="/blog">Blog</Link>
               </li>
-              <div className="btn-group">
+              <div className="btn-group gap-3">
                 <button className={`btn btn-bright-${page_color} text-${page_color}`}>Join Now</button>
                 <button className={`btn btn-bright-${page_color} text-${page_color}`}>Contact</button>
               </div>
