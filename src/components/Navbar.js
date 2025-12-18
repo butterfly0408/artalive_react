@@ -6,12 +6,14 @@ const Navbar = ({ page_color }) => {
   return (
     <>
 
-      <nav className={`p-3 navbar navbar-expand-lg bg-${page_color}`}>
+      <nav className={`p-3 mb-4 navbar navbar-expand-lg bg-${page_color}`}>
         <div className="container-fluid">
-          <a className={`navbar-brand text-bright-${page_color}`} href="/">
-            <img src={logo} width={"200"} className="d-inline-block " />
-            Art Alive
+          {/* Moved the Art Alive to appear on top of the paint image */}
+          <a className={`navbar-brand text-bright-${page_color} text-center`} href="/">
+            <div>Art Alive</div>
+            <img src={logo} width={"200"} className="d-block mx-auto" alt="Art Alive Logo" />
           </a>
+
           <div>
             <ul className="navbar-nav">
               <li className="me-2 nav-item">
@@ -40,7 +42,7 @@ const Navbar = ({ page_color }) => {
           </div>
         </div>
       </nav>
-
+<hr className={`border-bright-${page_color}`} />
     </>
   );
 

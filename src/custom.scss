@@ -1,4 +1,7 @@
 // Define Custom Colours
+// Darker
+$dark-pink: #c90a80;
+
 
 // White
 $white: #FFFDFC;
@@ -58,7 +61,8 @@ $theme-colors: map-merge(
     "pink": $pink,
     "red": $red,
     "orange": $orange,
-    "green": $green
+    "green": $green,
+    "dark-pink": $dark-pink
   )
 );
 
