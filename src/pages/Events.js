@@ -1,7 +1,7 @@
-{/*Images*/}
+/*Images*/
+import exhibition from '../assets/images/events/exhibition 2025.jpg';
 
-
-{/*Components*/}
+/*Components*/
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
@@ -37,3 +37,5 @@ const Events = () => {
   );
 
 }
+
+export default Events;

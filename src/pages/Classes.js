@@ -1,7 +1,10 @@
-{/*Images*/}
+/*Images*/
+import class1 from '../assets/images/classes/classes_01.jpeg';
+import class2 from '../assets/images/classes/classes_02.jpeg';
+import class3 from '../assets/images/classes/classes_03.jpeg';
+import class4 from '../assets/images/classes/classes_04.jpeg';
 
-
-{/*Components*/}
+/*Components*/
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
@@ -37,3 +40,5 @@ const Classes = () => {
   );
 
 }
+
+export default Classes;
