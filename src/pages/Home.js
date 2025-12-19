@@ -1,10 +1,13 @@
+{/*Images*/}
 import paintbrushes_01 from '../assets/images/home/paintbrushes_01.jpeg';
 import painting_01 from '../assets/images/home/painting_01.jpeg';
 import gallery_01 from '../assets/images/home/gallery_01.jpeg';
 import gallery_02 from '../assets/images/home/gallery_02.jpeg';
 
+{/*Components*/}
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+
 
 const Home = () => {
 
@@ -15,6 +18,7 @@ const Home = () => {
     <>
     
       <home className={`bg-${page_color}`}>
+
         <header>
           <Navbar page_color={page_color} />
         </header>
@@ -47,7 +51,9 @@ const Home = () => {
             {/* Text Content beside the Painting Card */}
             <div className='w-50 d-flex flex-column justify-content-center'>
               <h2>The Benefits of Art</h2>
-              <p>The relaxing practice of art can have many cognitive benefits. Our students have reported the following:</p>
+              <p>
+                The relaxing practice of art can have many cognitive benefits. Our students have reported the following:
+              </p>
               <ul>
                 <li>Increased concentration</li>
                 <li>Problem solving skills</li>
@@ -135,7 +141,6 @@ const Home = () => {
 
       </home>
 
-    
     </>
 
   );
