@@ -25,7 +25,7 @@ const About = () => {
         <main>
           <div className={`bg-${page_color}`}>
 
-            <heading class='Heading' className=''>
+            <heading class='Heading' className='font-custom'>
               About Art Alive Art School
             </heading>
 
@@ -60,7 +60,7 @@ const About = () => {
             </content>
 
             <outro class='Outro' className=''>
-              <p>
+              <p className='font-custom'>
                 We would love to bring your Art Alive with you.
               </p>
             </outro>

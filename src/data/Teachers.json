@@ -1,0 +1,166 @@
+[
+    {
+        "id": 1,
+        "name": "Valinda Lombard",
+        "profileImage": "vlom01_teacher_profile",
+        "quote": "When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, 'I used everything You gave me'.",
+        "quoteAuthor": "Erma Bombeck",
+        "started": "2022",
+        "bio": [
+            "Art can be an escape, an idealisation, or simply a means of play - (Author Unknown)",
+            "I have enjoyed drawing and colouring ever since I can remember and am very fortunate to pursue my dreams of becoming a full time artist. Being able to do what I actually believe in; putting pencil to paper, or brush to canvas anytime I want, is living the best life. I have been painting since the early 1980’s.",
+            "Art can be a challenge; both frustrating and rewarding at the same time, leading to a sense of accomplishment, or a determination to do (practice) more and that is why I believe that it is important to endlessly be able to learn and grow as an artist.",
+            "My drawing and painting style has always been very detailed. I attempt a looser style every now and again, but prefer photo-realism. Being able to move people intellectually or emotionally through the art i have created is a wonderful and fulfilling feeling.",
+            "The pride and sense of accomplishment after I've finished a great sketch or painting is exhilarating. Art is exciting, empowering and an expression of love. For me, it is not just about putting pencil to paper, or brush to canvas, it is a way of seeing the world, a way of expression, oftentimes a compulsion. I simply must create and explore my world and my imagination."
+        ],
+        "classTimes": {
+            "adults": "Wednesdays : 09:00-12:00 | Alternate Saturdays : 09:00-12:00",
+            "children": "Tuesdays : 14:00-17:00 | Wednesdays : 14:00-17:00 | Alternate Saturdays : 13:30-16:30"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Jacqueline Bekker",
+        "profileImage": "jbek02_teacher_profile",
+        "quote": "Making art stirs something deep within our souls, awakening emotions, sparking curiosity, and allowing us to connect with a vision and profound stories that lie beyond the canvas.",
+        "quoteAuthor": "Jacqueline Bekker",
+        "started": "2022",
+        "bio": [
+            "Jacqueline was born in South Africa and moved to Zimbabwe at the age of 3 where she spent most of her life.",
+            "From 1985 until 1990 she studied painting at the Peter Birch School of Art. From 1990 until 1995 she painted wildlife, and from 1995 until 2001 she attended the University of South Africa during which time she moved to England where she completed a BA (Hons) in Fine Art at Northbrook College in Worthing. During this time, she attended Stout University in Wisconsin, America as an exchange student.",
+            "Jacqueline has exhibited work internationally at The Swiss Art Fair, the Florence Biennale, the Da Vinci in Italy, and an Art Expo at the Louvre in Paris, France, as well as many smaller exhibitions in Europe.",
+            "Jacqueline’s subject when studying was ‘Process and the Alchemy of Art’ in which she experimented with many different processes, techniques, substances, and styles."
+        ],
+        "classTimes": {
+            "adults": "Thursdays : 09:00-12:00",
+            "children": ""
+        }
+    },
+    {
+        "id": 3,
+        "name": "Rourke Lyte-Mason",
+        "profileImage": "rlyt03_teacher_profile",
+        "quote": "Besides God, artists are the only ones who can literally move mountains.",
+        "quoteAuthor": "",
+        "started": "2022",
+        "bio": [
+            "I am Rourke Lyte-Mason. I joined Art Alive Art School when I was 16 years old.",
+            "In 2013, I took a gap year and attended Art Alive Art School where I realized I wanted to be an artist. I started studying Fine Art at the University of Johannesburg in 2014 and in 2015 I won the Thami Mnyele Painting Merit Award.",
+            "In 2017 & 2018, I made the top 100 in both the Thami Mnyele & Sasol New Signatures. I represented the University of Johannesburg at the Association of Arts Pretoria Student Events in 2017 and 2018.",
+            "I graduated with my National Diploma and my BA Degree for Fine Art at the University of Johannesburg in 2017 and 2018 and became an art teacher at Benhale Academy Christian Private School and worked there till 2020 and joined Springs Boys' High School in 2021.",
+            "I try to always paint as realistically as possible to help shape and form a reality of my art buyer’s and my own story/background."
+        ],
+        "classTimes": {
+            "adults": "Alternate Saturdays : 09:00-12:00",
+            "children": ""
+        }
+    },
+    {
+        "id": 4,
+        "name": "Sónette van der Merwe",
+        "profileImage": "svdm04_teacher_profile",
+        "quote": "If you truly love nature, you will find beauty everywhere.",
+        "quoteAuthor": "Vincent van Gogh",
+        "started": "2017",
+        "bio": [
+            "I am a young, aspiring artist residing in Benoni. I have had a passion for art for as long as I can remember, and I believe that art is the gateway to your imagination.",
+            "I have been fortunate enough to share my talent with young artists, in helping them discover their true talent. I am a part-time artist and a part-time art teacher. I love working with people and I love working with different styles, mediums and subject matter. I have done a variety of events from weddings to workshops.",
+            "I do not have a fixed subject matter that I focus on, but I do enjoy animals and expressive cityscapes. My main inspiration comes from talented artists like Vincent Van Gogh, Claude Monet and of course the amazingly talented Leonid Afremov.",
+            "I believe in channeling my creative urges in order to produce unique artworks."
+        ],
+        "classTimes": {
+            "adults": "Alternate Wednesday Evenings : 18:00 - 21:00",
+            "children": "Alternate Saturdays : 13:30-16:30"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Monnette van de Venter",
+        "profileImage": "mvdv05_teacher_profile",
+        "quote": "Art enables us to find ourselves and lose ourselves at the same time.",
+        "quoteAuthor": "Thomas Merton",
+        "started": "2021",
+        "bio": [
+            "Hi there! My name is Monnette van de Venter.",
+            "I am a young artist and have been painting since I was a little girl.",
+            "I started at Art Alive Art School as a student when I was 8 years old.",
+            "I am now the proud teacher of a wonderful group of talented little artists at the studio.",
+            "I found a passion for painting flowers a few years ago and have never looked back."
+        ],
+        "classTimes": {
+            "adults": "",
+            "children": "Alternate Saturdays : 13:30-16:30"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Karen Bond",
+        "profileImage": "karen_teacher_profile",
+        "quote": "The purpose of art is washing the dust of daily life off our souls.",
+        "quoteAuthor": "Pablo Picasso",
+        "started": "2024",
+        "bio": [
+            "Growing up, I always wanted to create or make something and was strongly attracted to art. Having painted for over 22 years, I learned many skills from various teachers and full-time artists. I tended mostly towards the medium of oils because of its forgiving and manipulating qualities but continue to learn other mediums.",
+            "Art is a continuously evolving and stimulating practice to express the quintessence of the grand adventure called life. It will teach you pleasure, pain and patience all at the same time. The practice of creating art is also a form of mindfulness, giving attention to the here and now. It's like therapy, and you get art.",
+            "I love how different individuals are, and each bring their own unique style and ideas. Art is a wonderful expression that reflects this uniqueness."
+        ],
+        "classTimes": {
+            "adults": "Tuesdays : 09:00-12:00",
+            "children": ""
+        }
+    },
+    {
+        "id": 7,
+        "name": "Bonnie Franks",
+        "profileImage": "bfra07_teacher_profile",
+        "quote": "I don't like to say I have given my life to art. I prefer to say art has given me my life.",
+        "quoteAuthor": "Frank Stella",
+        "started": "2012",
+        "bio": [
+            "I started painting in the 80's after trying many different art forms.",
+            "I developed a love of portraiture and have done many commissions.",
+            "I joined Art Alive in 2010, and became a teacher in 2012 and have spent many many wonderful hours teaching and helping others achieve their goals. It is my greatest joy to see a student sell their first artwork.",
+            "My preferred mediums are oil paints and soft pastels. I paint many different subject matters but have maintained my love of portraiture, be it human or animal."
+        ],
+        "classTimes": {
+            "adults": "Mondays : 09:00-12:00 | Tuesdays : 09:00-12:00 | Fridays : 09:00-12:00",
+            "children": ""
+        }
+    },
+    {
+        "id": 8,
+        "name": "Alice Zotti",
+        "profileImage": "azot09_teacher_profile",
+        "quote": "Creativity is who I am, it expresses the colours within my light.",
+        "quoteAuthor": "Alice Zotti",
+        "started": "2022",
+        "bio": [
+            "Born in Italy but have been living in South Africa most of my life. My faith is precious to me and comes first.",
+            "My passion and interests stem further than the fine arts and includes creating art work using all types of mediums on different forms of materials. This enables me to experiment and experience something new.",
+            "I have been at the studio since 2016 and it is a privilege to be a teacher at Art Alive Art School."
+        ],
+        "classTimes": {
+            "adults": "",
+            "children": "Thursdays : 14:00-17:00"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Gini Harris",
+        "profileImage": "ghar010_teacher_profile",
+        "quote": "Creativity takes courage.",
+        "quoteAuthor": "Henri Mattisse",
+        "started": "2016",
+        "bio": [
+            "Gini Harris has a background in graphic design and technical illustrating.",
+            "She has taken part in many exhibitions, both nationally and internationally. In 2021, she received the MAA award, making her a member of the Miniature Art Society of America.",
+            "She is well known for her commissioned landscapes and portraits.",
+            "Although proficient in many mediums and canvas sizes, she has had great success with miniature art in oils.",
+            "Gini has worked as a full-time artist for over 35 years and only recently has she taken up the challenge of teaching."
+        ],
+        "classTimes": {
+            "adults": "Alternate Saturdays : 09:00-12:00",
+            "children": ""
+        }
+    }
+]

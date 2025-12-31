@@ -7,13 +7,14 @@ $dark-pink: #c90a80;
 $white: #FFFDFC;
 
 // Bright
-$bright-light-blue: #05DBF5;
+$bright-light-blue: #05bfd8;
 $bright-blue: #0952E4;
 $bright-purple: #8D2FFB;
 $bright-pink: #FA2CBE;
 $bright-red: #FF3640;
 $bright-orange: #F48A02;
-$bright-green: #12D903;
+$bright-green: #10be04;
+// $bright-green: #12D903;
 
 // Muted
 $light-blue: #E3FDFF;
@@ -33,7 +34,7 @@ $green: #DFFFDC;
 }
 
 .font-custom {
-    font-family: 'CustomFont', sans-serif;
+    font-family: 'CustomFont', sans-serif !important;
 }
 
 
@@ -67,8 +68,8 @@ $theme-colors: map-merge(
 );
 
 // Comment this out to manually use font-custom as a class
-$font-family-sans-serif: 'CustomFont', sans-serif; 
-$font-family-base: $font-family-sans-serif;
+// $font-family-sans-serif: 'CustomFont', sans-serif; 
+// $font-family-base: $font-family-sans-serif;
 
 // Import the rest of Bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap";
