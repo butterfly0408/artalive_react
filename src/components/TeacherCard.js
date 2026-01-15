@@ -14,7 +14,7 @@ import ghar010_teacher_profile from '../assets/images/teachers/ghar010_teacher_p
 
 
 
-const TeacherCard = ({ id, name, profileImage, quote , quoteAuthor, started }) => {
+const TeacherCard = ({ id, name, profileImage, quote , quoteAuthor, started, color }) => {
 
   const images = {
     'vlom01_teacher_profile': vlom01_teacher_profile,
@@ -35,15 +35,15 @@ const TeacherCard = ({ id, name, profileImage, quote , quoteAuthor, started }) =
 
     <>
     
-      <div className="card" style={{ width: "26rem" }}>
+      <div className={`card bg-${color} border border-2 border-bright-${color} `} style={{ width: "26rem" }}>
         <img src={images[profileImage]} className="card-img-top" alt={`${name}'s profile`} />
         <div className="card-body">
-          <h5 className="card-title font-custom">{name}</h5>
+          <h5 className={`card-title text-bright-${color} font-custom`}>{name}</h5>
           <p className="card-text">
             <em>{quote}</em> - {quoteAuthor}
           </p>
           <p className='card-text'>I have been a Teacher at Art Alive since {started}</p>
-          <Link className='btn border border-2 border-black font-custom' to={`/teacher/${id}`}>More About Me</Link>
+          <Link className={`btn border border-2 border-bright-${color} text-bright-${color} font-custom`} to={`/teacher/${id}`}>More About Me</Link>
         </div>
       </div>
     

@@ -16,6 +16,8 @@ import teachers from '../data/Teachers.json';
 
 // Components
 import Navbar from "../components/Navbar";
+import Footer from '../components/Footer';
+import Section from '../components/Section'
 
 
 
@@ -51,39 +53,42 @@ const TeacherProfile = () => {
 
     <>
     
-      <div className={`bg-${page_color}`}>
+      <div>
 
         <header>
           <Navbar page_color={page_color}/>
         </header>
 
         <main>
-          <div className="d-flex gap-3 justify-content-center mx-auto my-4">
+
+          <Section>
             {/* Image */}
-            <div className="card w-50 text-bg-dark text-center mx-auto my-4">
+            <div className={`card w-50 text-bg-dark text-center mx-auto my-4 border border-2 border-bright-${page_color}`}>
               <img src={images[teacher.profileImage]} />
             </div>
-
             {/* Profile */}
             <div className='w-50 d-flex flex-column justify-content-center'>
-              <h2 className='font-custom'>{teacher.name}</h2>
-
+              <h2 className={`font-custom text-bright-${page_color}`}>{teacher.name}</h2>
               {/* Bio */}
               {teacher.bio.map((line) => (
                 <p>{line}</p>
               ))}
-
               {/* Classes */}
-              <h4 className='font-custom'>Class Times</h4>
+              <h4 className={`font-custom text-bright-${page_color}`}>Class Times</h4>
               {teacher.classTimes.adults && (
-                <p><span className='font-custom'>Adults:</span> {teacher.classTimes.adults}</p>
+                <p><span className={`font-custom text-bright-${page_color}`}>Adults:</span> {teacher.classTimes.adults}</p>
               )}
               {teacher.classTimes.children && (
-                <p><span className='font-custom'>Children:</span> {teacher.classTimes.children}</p>
+                <p><span className={`font-custom text-bright-${page_color}`}>Children:</span> {teacher.classTimes.children}</p>
               )}
             </div>
-          </div>
+          </Section>
+
         </main>
+
+        <footer>
+          <Footer page_color={page_color} />
+        </footer>
 
       </div>
     

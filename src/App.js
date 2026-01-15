@@ -7,8 +7,6 @@ import Teachers from './pages/Teachers';
 import Contact from './pages/Contact';
 import TeacherProfile from './pages/TeacherProfile';
 
-// delete this when you are done
-import Readme from './pages/Readme';
 
 function App() {
   return (
@@ -23,9 +21,6 @@ function App() {
           <Route path='/contact' element={<Contact />} />
           <Route path="/teacher/:id" element={<TeacherProfile />} />
           <Route path="/" element={<Home />} />
-
-          {/* delete this when you are done */}
-          <Route path='/readme' element={<Readme />} />
         </Routes>
       </div>
     </Router>

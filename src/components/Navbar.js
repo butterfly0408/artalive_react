@@ -8,7 +8,6 @@ const Navbar = ({ page_color }) => {
 
       <nav className={`p-3 mb-4 navbar navbar-expand-lg bg-${page_color}`}>
         <div className="container-fluid">
-          {/* Moved the Art Alive to appear on top of the paint image */}
           <a className={`navbar-brand text-bright-${page_color} text-center`} href="/">
             <div className='font-custom'>Art Alive</div>
             <img src={logo} width={"200"} className="d-block mx-auto" alt="Art Alive Logo" />
@@ -28,18 +27,14 @@ const Navbar = ({ page_color }) => {
               <li className="me-2 nav-item">
                 <Link className={`nav-link text-bright-${page_color} font-custom`} to="/events">Events</Link>
               </li>
-              <div className="btn-group">
-                <Link className={`btn btn-bright-${page_color} text-${page_color} font-custom`} to="/contact">Join Now</Link>
+              <div className="">
+                <Link className={`me-2 btn btn-bright-${page_color} text-${page_color} font-custom`} to="/contact">Join Now</Link>
                 <Link className={`btn btn-bright-${page_color} text-${page_color} font-custom`} to="/contact">Contact</Link>
               </div>
-              <li className="me-3 nav-item">
-                <Link className={`nav-link bg-white`} to="/readme">README</Link>
-              </li>
             </ul>
           </div>
         </div>
       </nav>
-<hr className={`border-bright-${page_color}`} />
     </>
   );
 
