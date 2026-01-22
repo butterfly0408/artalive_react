@@ -8,7 +8,7 @@
         "started": "2022",
         "bio": [
             "Art can be an escape, an idealisation, or simply a means of play - (Author Unknown)",
-            "I have enjoyed drawing and colouring ever since I can remember and am very fortunate to pursue my dreams of becoming a full time artist. Being able to do what I actually believe in; putting pencil to paper, or brush to canvas anytime I want, is living the best life. I have been painting since the early 1980’s.",
+            "I have enjoyed drawing and colouring ever since I can remember and am very fortunate to pursue my dreams of becoming a full time artist. Being able to do what I actually believe in; putting pencil to paper, or brush to canvas anytime I want, is living the best life. I have been painting since the early 1980's.",
             "Art can be a challenge; both frustrating and rewarding at the same time, leading to a sense of accomplishment, or a determination to do (practice) more and that is why I believe that it is important to endlessly be able to learn and grow as an artist.",
             "My drawing and painting style has always been very detailed. I attempt a looser style every now and again, but prefer photo-realism. Being able to move people intellectually or emotionally through the art i have created is a wonderful and fulfilling feeling.",
             "The pride and sense of accomplishment after I've finished a great sketch or painting is exhilarating. Art is exciting, empowering and an expression of love. For me, it is not just about putting pencil to paper, or brush to canvas, it is a way of seeing the world, a way of expression, oftentimes a compulsion. I simply must create and explore my world and my imagination."
@@ -29,7 +29,7 @@
             "Jacqueline was born in South Africa and moved to Zimbabwe at the age of 3 where she spent most of her life.",
             "From 1985 until 1990 she studied painting at the Peter Birch School of Art. From 1990 until 1995 she painted wildlife, and from 1995 until 2001 she attended the University of South Africa during which time she moved to England where she completed a BA (Hons) in Fine Art at Northbrook College in Worthing. During this time, she attended Stout University in Wisconsin, America as an exchange student.",
             "Jacqueline has exhibited work internationally at The Swiss Art Fair, the Florence Biennale, the Da Vinci in Italy, and an Art Expo at the Louvre in Paris, France, as well as many smaller exhibitions in Europe.",
-            "Jacqueline’s subject when studying was ‘Process and the Alchemy of Art’ in which she experimented with many different processes, techniques, substances, and styles."
+            "Jacqueline's subject when studying was ‘Process and the Alchemy of Art' in which she experimented with many different processes, techniques, substances, and styles."
         ],
         "classTimes": {
             "adults": "Thursdays : 09:00-12:00",
@@ -48,7 +48,7 @@
             "In 2013, I took a gap year and attended Art Alive Art School where I realized I wanted to be an artist. I started studying Fine Art at the University of Johannesburg in 2014 and in 2015 I won the Thami Mnyele Painting Merit Award.",
             "In 2017 & 2018, I made the top 100 in both the Thami Mnyele & Sasol New Signatures. I represented the University of Johannesburg at the Association of Arts Pretoria Student Events in 2017 and 2018.",
             "I graduated with my National Diploma and my BA Degree for Fine Art at the University of Johannesburg in 2017 and 2018 and became an art teacher at Benhale Academy Christian Private School and worked there till 2020 and joined Springs Boys' High School in 2021.",
-            "I try to always paint as realistically as possible to help shape and form a reality of my art buyer’s and my own story/background."
+            "I try to always paint as realistically as possible to help shape and form a reality of my art buyer's and my own story/background."
         ],
         "classTimes": {
             "adults": "Alternate Saturdays : 09:00-12:00",
@@ -63,10 +63,10 @@
         "quoteAuthor": "Vincent van Gogh",
         "started": "2017",
         "bio": [
-            "I am a young, aspiring artist residing in Benoni. I have had a passion for art for as long as I can remember, and I believe that art is the gateway to your imagination.",
-            "I have been fortunate enough to share my talent with young artists, in helping them discover their true talent. I am a part-time artist and a part-time art teacher. I love working with people and I love working with different styles, mediums and subject matter. I have done a variety of events from weddings to workshops.",
-            "I do not have a fixed subject matter that I focus on, but I do enjoy animals and expressive cityscapes. My main inspiration comes from talented artists like Vincent Van Gogh, Claude Monet and of course the amazingly talented Leonid Afremov.",
-            "I believe in channeling my creative urges in order to produce unique artworks."
+            "I'm an artist based in the East rand, where I bring my own brand of creativity to life. I don't box myself in with a specific style — I explore, experiment, and go wherever the art takes me. My work is a reflection of what moves me in the moment: the wild beauty of animals, the pulse of city life, and the raw, unapologetic energy that fuels everything. ",
+            "As an art instructor, I'm passionate about guiding others to find their voice, too. I believe that art isn't about following trends; it's about tapping into your true self and creating without limits. Whether I'm working on my own pieces or helping others unlock their creativity, it's all about honest expression and the power of making something that matters. ",
+            "I am fluent across all mediums, but I tend to drift back to oils, charcoals and watercolors the most, as they tend to feel more natural to my style. ",
+            "Art to me isn't a hobby — it's a way of life. I don't just make art; I live it."
         ],
         "classTimes": {
             "adults": "Alternate Wednesday Evenings : 18:00 - 21:00",
@@ -161,6 +161,22 @@
         "classTimes": {
             "adults": "Alternate Saturdays : 09:00-12:00",
             "children": ""
+        }
+    },
+    {
+        "id": 10,
+        "name": "Karen T Vermeulen",
+        "profileImage": "karenv_teacher_profile",
+        "quote": "",
+        "quoteAuthor": "",
+        "started": "2026",
+        "bio": [
+            "Karen T Vermeulen is a fully qualified sculptor with more than 30 years of experience working primarily with clay. Her work reveals a deep understanding of form, structure, anatomy and movement, bringing clay to life through confident gesture and refined detail. Karen values traditional hand building techniques and also enjoys exploring contemporary approaches, giving her sculptures a sense of both history and freshness.",
+            "Over the past three decades she has developed an exceptional eye for proportion and expression, allowing her to guide beginners and advanced students with clarity and patience. We are delighted to have Karen teaching sculpture with us, where students will benefit from her technical skill, professional expertise and inspiring creative energy."
+        ],
+        "classTimes": {
+            "adults": "Thursdays : 09:00-12:00",
+            "children":"Thursdays : 14:00-17:00"
         }
     }
 ]
